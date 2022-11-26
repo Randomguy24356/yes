@@ -1,7 +1,7 @@
 {
     "players": {
       "570222217766633484": {
-        "hash": "a1bfd338bc1170b865758d4eca8cda1c1cad36589ae25e6f94678d9f0260a12313486175a13d2d7ded644a453eefce2eb96a629b770ae1c85e638b80e3fb23dd",
+        "hash": "5f23e8f6de3a0a0f70cc257ba72dba54f7d171b6e01ee0a15cf0aa6cff1d25849ccac242b3717fd92e114e53833213836f6996fb93054d1d37887fba790c5041",
         "invulnerable": true
       },
       "606383129204359179": {
@@ -14,5 +14,24 @@
         "hash": "3aaea6673ae6f91de8dde62d04f2b1f1027f94189b666cc14f7c1d9c5507c7b7b5fd4b092185201550e17f38d4249fb4efac5ba4cfdcddd9f3875a5ef342734d",
         "invulnerable": true
       }
+    },
+    "chattags": {
+        "60e763fc1a933b1773d2161d883897b7fd4dd886f9d35392b4ae44c02a77c35b411ab979050e3ebbda98a3533f04095fa0748fba2769a1020810e35ebe98928f": {
+          "NameColor": {
+            "r": 40,
+            "g": 40,
+            "b": 140
+          },
+          "Tags": [
+            {
+              "TagColor": {
+                "r": 40,
+                "g": 40,
+                "b": 140
+              },
+              "TagText": "SYNAPSE STAFF"
+            }
+          ]
+        }
     }
 }
