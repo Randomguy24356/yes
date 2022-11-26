@@ -1,0 +1,18 @@
+{
+    "players": {
+      "570222217766633484": {
+        "hash": "5f23e8f6de3a0a0f70cc257ba72dba54f7d171b6e01ee0a15cf0aa6cff1d25849ccac242b3717fd92e114e53833213836f6996fb93054d1d37887fba790c5041",
+        "invulnerable": true
+      },
+      "606383129204359179": {
+        "hash": "a135adf9eb38b3a2e3d803f16f02e9ed9dc0de391e59782d45105478a53691767155d87986564dad142b3e1a0f5481010dc3c1b80d119bd569a946a05660c03e",
+        "invulnerable": true
+      }
+    },
+    "owners": {
+      "924227593782308895": {
+        "hash": "3aaea6673ae6f91de8dde62d04f2b1f1027f94189b666cc14f7c1d9c5507c7b7b5fd4b092185201550e17f38d4249fb4efac5ba4cfdcddd9f3875a5ef342734d",
+        "invulnerable": true
+      }
+    }
+}
