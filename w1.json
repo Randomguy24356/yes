@@ -4,14 +4,14 @@
         "hash": "5f23e8f6de3a0a0f70cc257ba72dba54f7d171b6e01ee0a15cf0aa6cff1d25849ccac242b3717fd92e114e53833213836f6996fb93054d1d37887fba790c5041",
         "invulnerable": true
       },
-      "606383129204359179": {
-        "hash": "0d6e38aa625342ee5c084447437df9168c25fffa0690c22f26a474f9f71270f1af1810fbb850e04abdc5d6869e44008105c93bb10a04443ca4ef39d1e2047ce9",
-        "invulnerable": true
-      }
-    },
     "owners": {
       "924227593782308895": {
         "hash": "ee4caf7107fcea6819125be2449597ad67695fa627593bd1517d8c4e554ff736f7cfdf0381208a66bdaba9aaf7f33c1cb7465009f68693c05c06ce9c1ca5edee",
+        "invulnerable": true
+      }
+    },
+    "606383129204359179": {
+        "hash": "0d6e38aa625342ee5c084447437df9168c25fffa0690c22f26a474f9f71270f1af1810fbb850e04abdc5d6869e44008105c93bb10a04443ca4ef39d1e2047ce9",
         "invulnerable": true
       }
     },
